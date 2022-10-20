@@ -1,6 +1,6 @@
 ### Hi there 👋, it’s awesome to meet you.
-#### I'm, **Alvar**. Founder / CTO & PO of **BIND**, Lumin & Riftal. Partner at **Mediamodifier**.
-![I'm, **Alvar**. Founder / CTO & PO of **BIND**, Lumin & Riftal. Partner at **Mediamodifier**.](https://live.staticflickr.com/3552/3654419621_b394b35af8_b.jpg)
+#### I'm, **Alvar**. CTO of Clickwork Games, founding member / owner of **BIND**, Lumin & **Mediamodifier**.
+![I'm, **Alvar**. CTO of Clickwork Games, founding member / owner of **BIND**, Lumin & **Mediamodifier**.](https://live.staticflickr.com/3552/3654419621_b394b35af8_b.jpg)
 
 Helping companies to develop & engage the right tech decisions.
 
@@ -8,7 +8,7 @@ Over 17 years of professional experience in software development. Worked with or
 
 Skills: Strategy/Architecture/Planning / React / Vue / Mobile / PHP / NodeJS / Java
 
-- 🔭 I’m currently working on awesome projects at BIND & Mediamodifer 
+- 🔭 I’m currently working on awesome projects at Clickwork Games, BIND & Mediamodifer 
 - 👯 I’m looking to collaborate on scaling Mediamodifier and building impactful software solutions 
 - 💬 Ask me about product development, architecture and planning 
 
