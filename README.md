@@ -1,15 +1,15 @@
 ### Hi there 👋, it’s awesome to meet you.
-#### I'm, **Alvar**. CTO of Clickwork Games, founding member / owner of **BIND**, Lumin & **Mediamodifier**.
-![I'm, **Alvar**. CTO of Clickwork Games, founding member / owner of **BIND**, Lumin & **Mediamodifier**.](https://live.staticflickr.com/3552/3654419621_b394b35af8_b.jpg)
+#### I'm, **Alvar**. CTO of Superb / Clickwork Games, founding member / owner of **BIND**, Lumin & **Mediamodifier**.
+![I'm, **Alvar**. CTO of Superb, founding member / owner of **BIND**, Lumin & **Mediamodifier**.](https://live.staticflickr.com/3552/3654419621_b394b35af8_b.jpg)
 
 Helping companies to develop & engage the right tech decisions.
 
-Over 17 years of professional experience in software development. Worked with organizations across many industries to aid in implementing the right technologies to meet business needs.
+Over 23 years of professional experience in software development. Worked with organizations across many industries to aid in implementing the right technologies to meet business needs.
 
 Skills: Strategy/Architecture/Planning / React / Vue / Mobile / PHP / NodeJS / Java
 
-- 🔭 I’m currently working on awesome projects at Clickwork Games, BIND & Mediamodifer 
-- 👯 I’m looking to collaborate on scaling Mediamodifier and building impactful software solutions 
+- 🔭 I’m currently working on awesome projects at Superb / Clickwork Games 
+- 👯 I’m looking to collaborate on building the best web3 wallet for gamers 
 - 💬 Ask me about product development, architecture and planning 
 
 
