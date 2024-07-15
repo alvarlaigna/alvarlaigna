@@ -1,5 +1,5 @@
 ### Hi there 👋, it’s awesome to meet you.
-#### I'm, **Alvar**. CTO of Altos Engineering & Clickwork Games, founding member/owner of **Mediamodifier**.
+#### I'm, **Alvar**. CTO of Altos Engineering & Perxify, founding member/owner of **Mediamodifier**.
 ![I'm, **Alvar**. CTO of Altos, founding member / owner of **BIND** & **Mediamodifier**.](https://live.staticflickr.com/3552/3654419621_b394b35af8_b.jpg)
 
 Helping companies to develop & engage the right tech decisions.
@@ -8,7 +8,7 @@ Over 23 years of professional experience in software development. I've worked wi
 
 Skills: Strategy/Architecture/Planning / React / Vue / Mobile / PHP / NodeJS / Java
 
-- 🔭 I’m currently working on awesome projects at Altos Engineering & Clickwork Games 
+- 🔭 I’m currently working on awesome projects at Altos Engineering & Perfixy 
 - 👯 I’m looking to collaborate on building the best DevOps solutions & business gamification
 - 💬 Ask me about product development, architecture, and planning 
 
