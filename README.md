@@ -44,26 +44,27 @@ I’m a tech enthusiast with over **23 years** of professional experience in **s
   <strong>Connect with me</strong>
 </p>
 
-<p align="center" class="social-icons">
+<p align="center">
   <a href="https://github.com/alvarlaigna" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/github.svg" alt="github" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/alvarlaigna/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/linkedin.svg" alt="linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/alvarlaigna" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/facebook.svg" alt="facebook" height="40"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/alvarlaigna/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/instagram.svg" alt="instagram" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/alvarlaigna" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/twitter.svg" alt="twitter" height="40"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://alvarlaigna.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/icloud.svg" alt="website" height="40"/>
+    <img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/>
   </a>
 </p>
+
 
 ---
 
