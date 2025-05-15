@@ -68,8 +68,8 @@ I’m a tech enthusiast with over **23 years** of professional experience in **s
 
 ---
 
-**For the best product visuals, mockups, and automated marketing tools, check out:**  
-[![Mediamodifier](https://img.shields.io/badge/Try%20Mediamodifier%20--%20Mockups%20%26%20Designs-blue.svg)](https://mediamodifier.com/?ref=alvarlaigna)
+**Get educated on internet security & online safety:**  
+[![Scam Detector EU]([https://img.shields.io/badge/)](https://scamdetector.eu)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
