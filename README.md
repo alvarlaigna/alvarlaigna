@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, it’s awesome to meet you.
-### I'm **Alvar Laigna** – CTO of **Altos Engineering** & **Perxify**, founding member/owner of **Mediamodifier**.
+### I'm **Alvar Laigna** – CTO of **Altos Engineering** & **Perxify**.
 
 ![Alvar Laigna - Tech Enthusiast, CTO, Entrepreneur](https://live.staticflickr.com/3552/3654419621_b394b35af8_b.jpg)
 
@@ -69,7 +69,10 @@ I’m a tech enthusiast with over **23 years** of professional experience in **s
 ---
 
 **Get educated on internet security & online safety:**  
-[![Scam Detector EU]([https://img.shields.io/badge/)](https://scamdetector.eu)
+[![Scam Detector EU](https://img.shields.io/badge/Scam%20Detector-EU-red?style=flat-square)](https://scamdetector.eu)
+
+**Join the Global Peace Protocol initiative:**  
+[![GPP](https://img.shields.io/badge/GPP-Global%20Peace%20Project-blue?style=flat-square)](https://www.globalpeaceprotocol.org)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
