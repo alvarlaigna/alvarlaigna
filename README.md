@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, it’s awesome to meet you.
-### I'm **Alvar Laigna** – CTO of **Altos Engineering** & **Perxify**.
+### I'm **Alvar Laigna** – AI Architect at RTK, CTO of **Altos Engineering** & **Perxify**.
 
 ![Alvar Laigna - Tech Enthusiast, CTO, Entrepreneur](https://live.staticflickr.com/3552/3654419621_b394b35af8_b.jpg)
 
@@ -17,6 +17,7 @@ I’m a tech enthusiast with over **23 years** of professional experience in **s
 ---
 
 ### Current Work
+- **RTK**: Building and planning AI solutions for the Estonian government.  
 - **Altos Engineering & Perxify**: Building next-gen B2B and B2C solutions, with a focus on loyalty programs, e-commerce, and **developer experience**.  
 - **Collaborations**: Seeking teams and ventures that need robust **DevOps strategies**, **microservices**, or **business gamification**.  
 
